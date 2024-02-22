@@ -1,7 +1,7 @@
 <h1 align="center">Student Management System</h1>
 
 <p align="center">
-  <img src="/images/screenshot.png" alt="Project Screenshot" width="80%">
+  <img src="/images/image.png" alt="Project Screenshot" width="80%">
 </p>
 
 <h2 align="center">Overview</h2>
