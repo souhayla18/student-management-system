@@ -33,13 +33,13 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/souhayla18/student-management-system.git ```
+   git clone https://github.com/souhayla18/student-management-system.git ```bash
 2.Navigate to the project directory:
 ```bash
-cd student-management-system  ```
+cd student-management-system  ```bash
 3.Run the application:
 ```bash
-python firstwindow.py ```
+python firstwindow.py ```bash
 <h2 align="center">Contributing</h2>
 Contributions are welcome! If you have suggestions, please open an issue or create a pull request.
 <h2 align="center">Contact</h2>
