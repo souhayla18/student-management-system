@@ -29,22 +29,34 @@
 ### Prerequisites
 - Python installed on your machine.
 - Tkinter library (usually comes with Python).
+### Tools used 
+Tkinter for the graphical interface
+PyCharm editor
+Oracle database
+Python: for saving and retrieving data in the database
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/souhayla18/student-management-system.git ```bash
+   git clone https://github.com/souhayla18/student-management-system.git
+
 2.Navigate to the project directory:
+
 ```bash
-cd student-management-system  ```bash
+cd student-management-system
+ ```
+
 3.Run the application:
 ```bash
-python firstwindow.py ```bash
-<h2 align="center">Contributing</h2>
+python firstwindow.py
+```
+### Contributing
 Contributions are welcome! If you have suggestions, please open an issue or create a pull request.
-<h2 align="center">Contact</h2>
-For any inquiries, contact me at your-email@example.com.
-<h2 align="center">License</h2>
+
+### Contact
+For any inquiries, contact me at souhaylaelmeftahi@gmail.com.
+
+### License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
